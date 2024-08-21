@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projeto Final</string>
+    <string name="navbar_home">Início</string>
+    <string name="navbar_cart">Carrinho</string>
+    <string name="navbar_logout">Sair</string>
+    <string name="navbar_orders">Pedidos</string>
+    <string name="add_to_cart">Adicionar ao Carrinho</string>
+    <string name="remove_from_cart">Remover do Carrinho</string>
+    <string name="product">Produto</string>
+    <string name="logout_alert">AVISO: Ao sair, os itens salvos no carrinho serão excluídos</string>
+    <string name="product_list">Lista de Produtos</string>
+    <string name="finish_order">Finalizar Compra</string>
+    <string name="placeholder_total_value">Valor Total: R$ 0.00</string>
+    <string name="register">Registrar</string>
+    <string name="user_name">Nome</string>
+    <string name="surname">Sobrenome</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="login_alt">Login</string>
+    <string name="product_details">Detalhes do Produto</string>
+</resources>
