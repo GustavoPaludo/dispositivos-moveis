@@ -1,3 +1,5 @@
+Projeto final da matéria 'Programação para Dispositivos Móveis', onde foi desenvolvida uma aplicação para android simples, utilizando como backend uma api REST para comunicação com o app, além da utilização de JPA para a persistência de dados. A inicialização da aplicação foi automatizada utilizando o Docker. Seguem os passos para iniciar a aplicação:
+
 Na pasta mobile-core, executar o comando start (Se estiver no windows, executar o start.bat, se estiver no linux, o start.sh). Para tal se assegurar que o docker está instalado corretamente. No Windows o Docker Desktop deve estar instalado, e de preferência estar com o WSL instalado.
 
 No Ubuntu, navegar até o diretório do bash start.sh (tambem pode ser aberto um novo terminal clicando com o botão direito dentro da pasta em que está o script), e executando o comando 'sudo ./start.sh'.
